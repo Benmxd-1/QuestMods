@@ -76,7 +76,23 @@
         "unordered_set": "cpp",
         "utility": "cpp",
         "vector": "cpp",
-        "xlocale": "cpp"
+        "xlocale": "cpp",
+        "hash_map": "cpp",
+        "*.tcc": "cpp",
+        "compare": "cpp",
+        "concepts": "cpp",
+        "csignal": "cpp",
+        "memory_resource": "cpp",
+        "numeric": "cpp",
+        "random": "cpp",
+        "ranges": "cpp",
+        "shared_mutex": "cpp",
+        "stop_token": "cpp",
+        "thread": "cpp",
+        "cfenv": "cpp",
+        "cinttypes": "cpp",
+        "valarray": "cpp",
+        "variant": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }
