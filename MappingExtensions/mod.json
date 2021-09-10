@@ -10,4 +10,18 @@
   "modFiles": [
     "libmappingextensions.so"
   ]
+}// OurClass.cpp
+#include "OurClass.hpp"
+
+// Necessary
+DEFINE_TYPE(OurNamespace, OurClass);
+
+void OurNamespace::OurClass::ctor() {
+  floatVar = 1.0f
+  // Constructor!
+}
+
+
+void OurNamespace::OurClass::Update() {
+  // Update method! YAY
 }
